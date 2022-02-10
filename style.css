@@ -138,6 +138,7 @@ h4{
 }
 .contactus p{
     font-size: 20px;
+    padding: 0 30px;
 }
 .aboutcompany{
     overflow: hidden;
@@ -152,6 +153,7 @@ h4{
 
 .aboutcompany p{
     font-size: 25px;
+    padding: 0 30px;
 }
 .footeroption{
     display: inline-block;
