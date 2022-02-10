@@ -1,0 +1,161 @@
+.headeroption {
+    background: url(img/code-img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 450px;
+}
+
+body {
+    background-color: black;
+}
+
+.headeroption {
+    font-family: arial;
+    text-align: center;
+    color: antiquewhite;
+    background-color: hsla(290, 60%, 70%, 0.3);
+}
+
+h3 {
+    padding-top: 100px;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+button {
+    background-color: rgba(192, 192, 192, 0.3);
+    padding: 25px;
+    color: whitesmoke;
+    font-size: 25px;
+}
+
+.backdropped {
+    background-color: rgba(102, 96, 96, 0.6);
+    height: 100%;
+    backdrop-filter: blur(7px);
+}
+.info{
+    background-color: aliceblue;
+    padding: 50px;
+}
+.headerinfo{
+    text-align: center;
+    font-size: 40px;
+    font-family: arial black;
+
+}
+.infodetails{
+    display: flex;
+    font-size: 20px;
+}
+.info1{
+    width: 50%;
+    padding-left: 190px;
+    text-align: center;
+    padding-right: 30px;
+    
+}
+.info2{
+    width: 50%;
+    padding-left: 30px;
+    text-align: center;
+    padding-right: 190px;
+    
+}
+.merketting{
+    background-color: rgba(102, 96, 96, 0.6);
+    width: 100%;
+    backdrop-filter: blur(7px);
+
+}
+.merketting{
+    display: flex;
+    float: left;
+    align-items: center;
+    padding: 50px 0;
+}
+h4{
+    text-align: center;
+    font-size: 20px;
+}
+.webdevelopment{
+    background-color: rgb(255, 254, 254);
+    width: 270px;
+    float: left;
+    overflow: hidden;
+    text-align: center;
+    margin-right: 25px;
+    margin-left: 250px;
+    
+}
+.mobileapplications{
+    background-color: aliceblue;
+    width: 270px;
+    float: left;
+    overflow: hidden;
+    text-align: center;
+    margin-right: 25px;
+    
+}
+.techmerketing{
+    height: 100%;
+    background-color: aliceblue;
+    width: 250px;
+    overflow: hidden;
+    text-align: center;
+    
+}
+.digitalneed{
+    display: inline-block;
+    background-color: aliceblue;
+    width: 100%;
+}
+.digitalneed h4{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 30px;
+}
+.digitalneed p{
+    width: 800px;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 250px;
+}
+.companyinfo{
+    display: flex;
+    float: left;
+    color: aliceblue;
+}
+.contactus{
+    width: 50%;
+    background-color: #2690D4;
+    text-align: center;
+    padding-top: 50px;
+}
+.contactus span{
+    font-size: 40px;
+}
+.contactus p{
+    font-size: 20px;
+}
+.aboutcompany{
+    overflow: hidden;
+    width: 50%;
+    padding-top: 50px;
+    text-align: center;
+    background-color: rgba(102, 96, 96, 0.6);
+}
+.aboutcompany span{
+    font-size: 40px;
+}
+
+.aboutcompany p{
+    font-size: 25px;
+}
+.footeroption{
+    display: inline-block;
+    color: aliceblue;
+    font-size: 30px;
+    padding: 30px 0px 30px 250px;
+}
